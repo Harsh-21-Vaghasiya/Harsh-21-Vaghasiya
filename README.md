@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...web developing
 - 🌱 I’m currently learning ...information techonoology
 - 💞️ I’m looking to collaborate on ...Web developing
-- 📫 How to reach me ...Email :- harshvaghasiya21@gmail.com
+- 📫 How to reach me ...
+- Email :- harshvaghasiya21@gmail.com
                         linkedln :- https://www.linkedin.com/in/harsh-vaghasiya-a4a311211
                         Twitter :- https://twitter.com/HarshVa47189099?s=08
 
