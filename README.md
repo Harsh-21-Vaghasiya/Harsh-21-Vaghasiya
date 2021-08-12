@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...Web developing
 - 📫 How to reach me ...
 - Email :- harshvaghasiya21@gmail.com
-                        linkedln :- https://www.linkedin.com/in/harsh-vaghasiya-a4a311211
-                        Twitter :- https://twitter.com/HarshVa47189099?s=08
+- linkedln :- https://www.linkedin.com/in/harsh-vaghasiya-a4a311211
+- Twitter :- https://twitter.com/HarshVa47189099?s=08
 
 <!---
 Harsh-21-Vaghasiya/Harsh-21-Vaghasiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
