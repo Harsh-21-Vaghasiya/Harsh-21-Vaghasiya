@@ -29,5 +29,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-21-vaghasiya&show_icons=true&locale=en&layout=compact" alt="harsh-21-vaghasiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-21-vaghasiya&show_icons=true&locale=en" alt="harsh-21-vaghasiya" /></p>
-
