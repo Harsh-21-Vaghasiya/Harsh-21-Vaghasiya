@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Vaghasiya</h1>
-<h3 align="center">A highly skilled and well‑equipped web developer. ready to tackle your requirements. I enjoy challenges and am adaptable in changing environ‑ ments. eagerly seeking for opportunity to show and enhance my skills. even if it is a web development or other technologies.</h3>
+<h3 align="center">A highly skilled and well-equipped web developer. ready to tackle your requirements. I enjoy challenges and am adaptable to changing environments. eagerly seeking opportunities to show and enhance my skills. even if it is web development or other technologies.</h3>
 
 
 
