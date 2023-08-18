@@ -27,7 +27,7 @@ preview
 
 - 📫 How to reach me **harshvaghasiya21@gmail.com**
 
-- 📄 Know about my experiences [harshvaghasiya21@onrender.com](harshvaghasiya21@onrender.com)
+- 📄 Know about my experiences [harshvaghasiya21@onrender.com](https://harshvaghasiya.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
