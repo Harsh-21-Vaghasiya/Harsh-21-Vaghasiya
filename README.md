@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Vaghasiya</h1>
 <h3 align="center">A highly skilled and well‑equipped web developer. ready to tackle your requirements. I enjoy challenges and am adaptable in changing environ‑ ments. eagerly seeking for opportunity to show and enhance my skills. even if it is a web development or other technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-21-vaghasiya&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-21-vaghasiya" /> </p>
+
 
 - 🌱 I’m currently learning **NodeJs, PHP, ReactJs**
 
