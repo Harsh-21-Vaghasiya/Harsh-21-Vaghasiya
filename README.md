@@ -21,7 +21,7 @@ preview
 
 - 🌱 I’m currently learning **NodeJs,PHP,ReactJs**
 
-- 👨‍💻 All of my projects are available at [harshvaghasiya21@onrender.com](harshvaghasiya21@onrender.com)
+- 👨‍💻 All of my projects are available at [harshvaghasiya21@onrender.com](https://harshvaghasiya.onrender.com/)
 
 - 💬 Ask me about **Node,PHP,React**
 
